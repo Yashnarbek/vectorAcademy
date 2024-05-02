@@ -1,0 +1,44 @@
+// MIXINS
+
+@mixin list-unstyle {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+@mixin psevdo-elements($position) {
+  position: $position;
+  content: "";
+}
+
+@mixin mobile-first($min) {
+  @media only screen and (min-width:$min)  {
+   @content;
+  }
+}
+
+
+@mixin min-max($min , $max) {
+  @media only screen and (min-width:$min) and (max-width:$max) {
+   @content;
+  }
+}
+
+@mixin desktop-first($max) {
+  @media only screen and (max-width:$max)  {
+   @content;
+  }
+}
+
+@mixin sticky-footer {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 0;
+}
+
+
+
+
+
+

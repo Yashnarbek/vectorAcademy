@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Agrandir";
+    font-weight: 700;
+    src:
+         url("../fonts/hinted-Agrandir-TextBold.woff2") format("woff2")
+         url("../fonts/hinted-Agrandir-TextBold.woff") format("woff"); 
+  }
+@font-face {
+    font-family: "Agrandir";
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url("../fonts/hinted-Agrandir-Regular.woff2") format("woff2"),
+         url("../fonts/hinted-Agrandir-Regular.woff") format("woff"); 
+  }
+  @font-face {
+    font-family: "Abel";
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url("../fonts/hinted-Abel-Regular.woff2") format("woff2"),
+         url("../fonts/hinted-Abel-Regular.woff") format("woff"); 
+  }

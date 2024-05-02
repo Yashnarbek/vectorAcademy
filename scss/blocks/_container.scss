@@ -1,0 +1,22 @@
+/* CONTAINER */
+
+.container{
+  max-width: 1240px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+@include mobile-first (650px) {
+  .container {
+      padding-left: 20px;
+      padding-right: 20px;
+  }
+}
+@include mobile-first (992px) {
+  .container {
+      padding-left: 32px;
+      padding-right: 32px;
+  }
+}

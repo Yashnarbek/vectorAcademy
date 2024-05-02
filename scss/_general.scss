@@ -1,0 +1,32 @@
+/* GENERAL */
+
+*{
+  box-sizing: border-box;
+}
+
+*::before,
+*::after{
+  box-sizing: inherit;
+}
+
+
+
+html{
+  height: 100%;
+  box-sizing: border-box;
+}
+
+img{
+  display: block;
+  height: auto;
+}
+
+body{
+  background-color: #0d0c0c;
+}
+
+/* STICKY-FOOTER */
+.site-main{
+  flex-grow: 1;
+  background-color: #a1aebf;
+}

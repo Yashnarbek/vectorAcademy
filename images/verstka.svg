@@ -1,0 +1,27 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_2126_295_0" x1="33.122047" y1="23.408875" x2="11.162845" y2="36.859238" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#9DE8EE"/>
+			<stop offset="0.000100" stop-color="#9DE8EE"/>
+			<stop offset="0.490049" stop-color="#FA7C0B"/>
+			<stop offset="1.000000" stop-color="#9F8CED"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_2126_297_0" x1="33.122044" y1="8.028328" x2="11.162842" y2="13.072212" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#9DE8EE"/>
+			<stop offset="0.000100" stop-color="#9DE8EE"/>
+			<stop offset="0.490049" stop-color="#FA7C0B"/>
+			<stop offset="1.000000" stop-color="#9F8CED"/>
+		</linearGradient>
+	</defs>
+	<mask id="mask2126_293" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="48.000000" height="48.000000">
+		<path id="Vector" d="M0 0L48 0L48 48L0 48L0 0Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</mask>
+	<g mask="url(#mask2126_293)">
+		<path id="Vector" d="M3 21C3 16.85 3 20.25 3 18L45 18C45 21.75 45 16.85 45 21L45 22.5C45 24.98 42.98 27 40.5 27L32.48 27C31.29 27 30.14 27.47 29.3 28.31L25.11 32.5C23.74 33.87 23.41 35.96 24.27 37.69L25.34 39.82C25.57 40.29 25.54 40.84 25.27 41.28C25 41.73 24.51 42 24 42L10.5 42C6.35 42 3 38.64 3 34.5L3 21Z" fill="url(#paint_linear_2126_295_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M33.77 39.4C34.33 40.01 34.33 40.98 33.77 41.59C33.2 42.19 32.28 42.19 31.71 41.59L27.47 37.09C26.9 36.48 26.9 35.51 27.47 34.9L31.71 30.4C32.28 29.8 33.2 29.8 33.77 30.4C34.33 31.01 34.33 31.98 33.77 32.59L30.55 36L33.77 39.4ZM37.71 32.59C37.14 31.98 37.14 31.01 37.71 30.4C38.28 29.8 39.2 29.8 39.77 30.4L44.01 34.9C44.58 35.51 44.58 36.48 44.01 37.09L39.77 41.59C39.2 42.19 38.28 42.19 37.71 41.59C37.14 40.98 37.14 40.01 37.71 39.4L40.92 36L37.71 32.59Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M10.5 6C6.35 6 3 9.35 3 13.5L3 15L45 15L45 13.5C45 9.35 41.64 6 37.5 6L10.5 6ZM9 12C9.82 12 10.5 11.32 10.5 10.5C10.5 9.67 9.82 9 9 9C8.17 9 7.5 9.67 7.5 10.5C7.5 11.32 8.17 12 9 12ZM13.5 12C14.32 12 15 11.32 15 10.5C15 9.67 14.32 9 13.5 9C12.67 9 12 9.67 12 10.5C12 11.32 12.67 12 13.5 12ZM19.5 10.5C19.5 11.32 18.82 12 18 12C17.17 12 16.5 11.32 16.5 10.5C16.5 9.67 17.17 9 18 9C18.82 9 19.5 9.67 19.5 10.5Z" fill="url(#paint_linear_2126_297_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
