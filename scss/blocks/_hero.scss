@@ -31,6 +31,7 @@
     width: 800px;
     height: 300px;
     position: absolute;
+    z-index: 0;
     left: -150px;
     bottom: 0;
     background-image: url("../images/left-down-bg.svg");
@@ -73,11 +74,12 @@
     font-weight: 400;
 }
 .form-wrapper {
+    position: relative;
+    z-index: 10;
     display: inline-flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
 }
 .form-wrapper__inp {
     display: block;

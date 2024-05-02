@@ -634,6 +634,7 @@ body {
   width: 800px;
   height: 300px;
   position: absolute;
+  z-index: 0;
   left: -150px;
   bottom: 0;
   background-image: url("../images/left-down-bg.svg");
@@ -680,6 +681,8 @@ body {
 }
 
 .form-wrapper {
+  position: relative;
+  z-index: 10;
   display: inline-flex;
   flex-direction: column;
   justify-content: center;
